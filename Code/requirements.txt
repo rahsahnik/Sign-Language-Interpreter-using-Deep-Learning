@@ -1,7 +1,7 @@
 h5py
 numpy
 scikit-learn
-sklearn
+#sklearn
 tensorflow-gpu
 keras
 #opencv-python
