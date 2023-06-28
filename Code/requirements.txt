@@ -3,7 +3,7 @@ numpy
 scikit-learn
 #sklearn
 #tensorflow-gpu
-tensorflow==1.5 #for the sign language project this is the version required
+tensorflow==1.5.0 #for the sign language project this is the version required
 keras
 #opencv-python
 opencv-python-headless
